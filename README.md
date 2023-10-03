@@ -1,6 +1,6 @@
 # rust-tcp-server
 This is creating a TCP Server using Rust  programming language 
-# Rust TCP Server [YouTube Video Tutorial | Bek Brace
+# Rust TCP Server [YouTube Video Tutorial | Bek Brace]
 
 A simple TCP server implemented in Rust for educational purposes. This project demonstrates the basics of networking in Rust and how to create a basic server that handles client connections.
 
