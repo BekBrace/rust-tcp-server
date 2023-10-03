@@ -1,6 +1,6 @@
 # rust-tcp-server
 This is creating a TCP Server using Rust  programming language 
-# Rust TCP Server
+# Rust TCP Server [YouTube Video Tutorial | Bek Brace
 
 A simple TCP server implemented in Rust for educational purposes. This project demonstrates the basics of networking in Rust and how to create a basic server that handles client connections.
 
@@ -35,3 +35,19 @@ To get a copy of this project up and running on your local machine, follow these
 
    ```bash
    git clone https://github.com/your-username/rust-tcp-server.git
+
+Navigate to the project directory:
+cd rust-tcp-server
+
+Build the project:
+cargo build
+
+Start the server:
+cargo run
+
+The server will start listening on 127.0.0.1:8080.
+
+Usage
+Connect to the server using a TCP client (e.g., Telnet or opening a web browser like demonstrated in the YT tutorial) to test the functionality.
+
+
