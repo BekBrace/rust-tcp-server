@@ -34,7 +34,7 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/rust-tcp-server.git
+   git clone https://github.com/BekBrace/rust-tcp-server.git
 
 Navigate to the project directory:
 cd rust-tcp-server
